@@ -6,7 +6,7 @@ This project, part of CMPE 255 (Data Mining), focuses on clustering research pap
 ## Resources
 - **Project Report**: [CMPE-255-Report.pdf](https://github.com/AtharvaJadhav/CMPE255-Project-Clustering-Research-Paper-Abstracts/blob/main/CMPE-255-Report.pdf)
 - **Presentation**: [CMPE-255 Final Project.pptx](https://github.com/AtharvaJadhav/CMPE255-Project-Clustering-Research-Paper-Abstracts/blob/main/CMPE-255%20Final%20Project.pptx)
-- **Video Recording**: [Final_Project_recording.mp4](https://github.com/AtharvaJadhav/CMPE255-Project-Clustering-Research-Paper-Abstracts/blob/main/Final_Project_recording.mp4)
+- **Presentaion Recording**: [Final_Project_recording.mp4](https://github.com/AtharvaJadhav/CMPE255-Project-Clustering-Research-Paper-Abstracts/blob/main/Final_Project_recording.mp4)
 
 ## Prerequisites
 Before running the project, ensure you have the following installed:
