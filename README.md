@@ -3,7 +3,7 @@
 ## Overview
 This project is a part of CMPE 255 (Data Mining) and focuses on clustering research paper abstracts. The primary objective is to develop a system capable of effectively grouping abstracts based on their content. This system aims to facilitate easier navigation and discovery within large datasets of academic papers. The approach likely involves data mining techniques and algorithms for clustering text data, specifically abstracts of research papers, to identify and categorize similar topics or themes.
 
-## Team And Team Members
+## Team
 - Team Name - **Team Ekko**
 - Team Members:-
      - **Omkar Nagarkar**
